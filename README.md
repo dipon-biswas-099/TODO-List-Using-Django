@@ -10,7 +10,11 @@ Basic HTML & CSS for UI
 Django (Python)
 HTML, CSS
 SQLite (default Django database)
-📌 How to Run the Project
+
+
+
+
+
 
 Project Structure:-
 /TODO
